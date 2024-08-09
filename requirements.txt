@@ -1,0 +1,6 @@
+!pip -q install
+langchain
+openai
+tiktoken
+chromadb
+lark

@@ -1,0 +1,109 @@
+Agent: This is Martin with Goodyear.
+customer: Hello. Is this Martin? Yeah. Hey, Martin. How are you doing? This is Dwayne Mann.
+Agent: Hey, Dwayne.
+customer: Hey. Yeah. The tires were here today.
+customer: Is there any update on
+customer: the
+customer: because I haven't received the email about the the installation fee being waived and the return of the
+customer: old mobile fee.
+Agent: Oh, gotcha. So you already have those installed?
+customer: Say that again, sir.
+Agent: You already have those installed?
+customer: Where?
+Agent: No. I'm saying you you already have those installed?
+customer: No. They they're in the process of doing it now.
+Agent: Oh, gotcha. Okay. So, yeah, we'll we'll go ahead and get that
+Agent: for the
+Agent: installation and the mobile fee to be refunded. We'll go ahead and get the paperwork that we need from the installer. We can go ahead and get that taken care of for you.
+customer: Oh, so that's never was that that was never submitted yet. Right?
+Agent: No. That's only when you do the installation. There's, like, a paper invoice that the store gives you, but we'll get it from the store specifically.
+customer: Oh, okay. Yeah. They're in the process of doing it now. Oh, so you can't put in for the the waive the fee until the installment is done?
+Agent: Yeah. So the the way that the reimbursement department has to do it is that once the tire is installed, they just need to see the proof being the paperwork, and then they go ahead and just process it.
+customer: Oh, okay. Okay.
+customer: Okay. So yeah. Because I was wondering, you know, I just wanted to know what what was my current balance, you know, because
+customer: Yeah.
+Agent: So that So
+customer: that we have the So that one nineteen
+customer: is gonna be subtracted from the what the what the initial charge was originally supposed to be. Correct?
+Agent: Yep.
+customer: Which was one o the company
+Agent: that we went over the charges? Right. I got it written I
+customer: got it written down, which was nine zero six eleven, I think it was. Nine zero six eleven.
+Agent: Yeah. And then you get the,
+Agent: I think, the two hundred dollar rebate?
+Agent: Yeah. I don't know if you yeah. I don't know
+customer: if you still found out. The rebate was two twenty five. Two hundred Yeah.
+Agent: I don't know if you, Yeah. I don't know if you still ask the bank if if they can let you do that the way that the bill comes out less.
+customer: Yeah. The bank said that it it still read nine thirty six.
+Agent: Oh, okay. Perfect. So, yeah, you you can still use the rebate card towards the
+Agent: the balance, I believe. Yeah. Like I had mentioned to you.
+customer: Yeah. They said it still read nine thirty six. But once once you submit the paperwork, that will be reduced at the bank as well. Correct?
+Agent: Yeah.
+customer: Okay. The bank the bank goes ahead and
+Agent: receives the credit back with the one nineteen eighty and then the twenty dollars.
+customer: Okay. I greatly appreciate. So once every once those refunds are made, then you'll send me an email stating such?
+Agent: Yeah. Should I get you an email?
+customer: Okay. Not that.
+Agent: If you want, give me a callback once the tires are installed so I can just have the installer send me the paperwork.
+customer: Say that again, sir?
+Agent: If you want, once the tires are finished being installed, give me a callback and let me know so that I can just reach out to the store and then have them send me the paperwork for it.
+customer: Okay. Wonderful. I greatly appreciate
+Agent: it. Yeah. Of course. It's definitely my pleasure.
+customer: Yeah. Thank
+Agent: you, Paul. Alright. Of course. It's been my pleasure. So, yeah, just reach out to me as soon as you go ahead and get that Mhmm. Completed, and then I'll go I'll go ahead and reach out to them.
+customer: Okay. Yeah. They put them on that. Alright. Perfect. Alright. Bye bye. Bye bye.
+"""text = """
+Agent: This is Martin with Goodyear.
+customer: Hello. Is this Martin? Yeah. Hey, Martin. How are you doing? This is Dwayne Mann.
+Agent: Hey, Dwayne.
+customer: Hey. Yeah. The tires were here today.
+customer: Is there any update on
+customer: the
+customer: because I haven't received the email about the the installation fee being waived and the return of the
+customer: old mobile fee.
+Agent: Oh, gotcha. So you already have those installed?
+customer: Say that again, sir.
+Agent: You already have those installed?
+customer: Where?
+Agent: No. I'm saying you you already have those installed?
+customer: No. They they're in the process of doing it now.
+Agent: Oh, gotcha. Okay. So, yeah, we'll we'll go ahead and get that
+Agent: for the
+Agent: installation and the mobile fee to be refunded. We'll go ahead and get the paperwork that we need from the installer. We can go ahead and get that taken care of for you.
+customer: Oh, so that's never was that that was never submitted yet. Right?
+Agent: No. That's only when you do the installation. There's, like, a paper invoice that the store gives you, but we'll get it from the store specifically.
+customer: Oh, okay. Yeah. They're in the process of doing it now. Oh, so you can't put in for the the waive the fee until the installment is done?
+Agent: Yeah. So the the way that the reimbursement department has to do it is that once the tire is installed, they just need to see the proof being the paperwork, and then they go ahead and just process it.
+customer: Oh, okay. Okay.
+customer: Okay. So yeah. Because I was wondering, you know, I just wanted to know what what was my current balance, you know, because
+customer: Yeah.
+Agent: So that So
+customer: that we have the So that one nineteen
+customer: is gonna be subtracted from the what the what the initial charge was originally supposed to be. Correct?
+Agent: Yep.
+customer: Which was one o the company
+Agent: that we went over the charges? Right. I got it written I
+customer: got it written down, which was nine zero six eleven, I think it was. Nine zero six eleven.
+Agent: Yeah. And then you get the,
+Agent: I think, the two hundred dollar rebate?
+Agent: Yeah. I don't know if you yeah. I don't know
+customer: if you still found out. The rebate was two twenty five. Two hundred Yeah.
+Agent: I don't know if you, Yeah. I don't know if you still ask the bank if if they can let you do that the way that the bill comes out less.
+customer: Yeah. The bank said that it it still read nine thirty six.
+Agent: Oh, okay. Perfect. So, yeah, you you can still use the rebate card towards the
+Agent: the balance, I believe. Yeah. Like I had mentioned to you.
+customer: Yeah. They said it still read nine thirty six. But once once you submit the paperwork, that will be reduced at the bank as well. Correct?
+Agent: Yeah.
+customer: Okay. The bank the bank goes ahead and
+Agent: receives the credit back with the one nineteen eighty and then the twenty dollars.
+customer: Okay. I greatly appreciate. So once every once those refunds are made, then you'll send me an email stating such?
+Agent: Yeah. Should I get you an email?
+customer: Okay. Not that.
+Agent: If you want, give me a callback once the tires are installed so I can just have the installer send me the paperwork.
+customer: Say that again, sir?
+Agent: If you want, once the tires are finished being installed, give me a callback and let me know so that I can just reach out to the store and then have them send me the paperwork for it.
+customer: Okay. Wonderful. I greatly appreciate
+Agent: it. Yeah. Of course. It's definitely my pleasure.
+customer: Yeah. Thank
+Agent: you, Paul. Alright. Of course. It's been my pleasure. So, yeah, just reach out to me as soon as you go ahead and get that Mhmm. Completed, and then I'll go I'll go ahead and reach out to them.
+customer: Okay. Yeah. They put them on that. Alright. Perfect. Alright. Bye bye. Bye bye.
