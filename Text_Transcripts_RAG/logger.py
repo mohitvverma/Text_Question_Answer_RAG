@@ -2,17 +2,15 @@ import logging
 from datetime import datetime
 import os
 import sys
+from Text_Transcripts_RAG.constants import MAIN_FILE_PATH
 
 
 LOG_FILE_NAME = f'{datetime.now().strftime("%Y-%m-%d_%H-%M-%S")}.log'
 
-# os.makedirs('logs', exist_ok=True)
-
 main_file_path = os.path.abspath(os.path.join(os.getcwd(), '..'))
-sys.path.insert(0, main_file_path)
+sys.path.insert(0, MAIN_FILE_PATH)
 
-LOG_PATH = os.path.join(main_file_path, 'Logs_data', LOG_FILE_NAME)
-
+LOG_PATH = os.path.join(MAIN_FILE_PATH, 'Logs_data', LOG_FILE_NAME)
 os.makedirs(LOG_PATH, exist_ok=True)
 
 LOG_FILE_PATH = os.path.join(LOG_PATH, LOG_FILE_NAME)
